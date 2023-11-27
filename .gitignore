@@ -1,0 +1,10 @@
+app/.env
+.env
+delete-me.txt
+
+bin/
+lib/
+include/
+pyvenv.cfg
+
+__pycache__/
